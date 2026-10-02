@@ -18,7 +18,7 @@ To integrate `XMediatorAppLovin` into your Xcode project using Swift Package Man
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/x3mads/xmediator-applovin-swift-package", exact: "13.6.400")
+    .package(url: "https://github.com/x3mads/xmediator-applovin-swift-package", exact: "13.6.401")
 ]
 ```
 
